@@ -139,8 +139,7 @@ first. See [LICENSE](LICENSE) (Apache-2.0 for the exploit; the files under
 
 - [CyberMeowfia / IonStack](https://github.com/NebuSec/CyberMeowfia) — the
   upstream PoC this port derives from
-- The GhostLock project for HONOR 80 GT (AGT-AN00) — target tables, KSU flow,
-  loader design
+- [GhostLock-H80GT](https://github.com/yakidango-official/GhostLock-H80GT)
 - [KernelSU](https://github.com/tiann/KernelSU) and
   [Magisk](https://github.com/topjohnwu/Magisk) (`magiskpolicy`)
 
