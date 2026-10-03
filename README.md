@@ -48,7 +48,7 @@ tar xzf release/Honor70Pro-GhostLock-release.tar.gz
 adb connect <phone-ip>:5555
 sh Honor70Pro-GhostLock/setup.sh <phone-ip>:5555
 
-# 2) when it prints READY, you have a uid-0 shell
+# when it prints ROOT READY, you have a uid-0 shell
 adb shell        # (or nc <phone-ip> 34567 for the root shell)
 ```
 
