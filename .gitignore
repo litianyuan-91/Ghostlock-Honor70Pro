@@ -1,0 +1,13 @@
+# ---- build outputs ----
+exploit/build/
+
+# ---- release bundle (built by release/make-release.sh; ships as a GitHub
+#      release asset, not in git) ----
+release/payload/
+release/Honor70Pro-GhostLock-release.tar.gz
+release/Honor70Pro-GhostLock-release.tar.gz.sha256
+
+# ---- KernelSU build tree (see ksu/README.md) ----
+ksu/.build/
+
+.DS_Store
