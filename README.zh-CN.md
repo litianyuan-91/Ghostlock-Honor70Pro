@@ -119,7 +119,7 @@ SELinux 变为宽容模式；失败时手机会重启（内核开了 `CONFIG_PAN
 ## 致谢
 
 - [CyberMeowfia / IonStack](https://github.com/NebuSec/CyberMeowfia)（上游 PoC）
-- 荣耀 80 GT（AGT-AN00）的 GhostLock 项目（偏移表、KSU 流程、加载器设计）
+- [GhostLock-H80GT] （https://github.com/yakidango-official/GhostLock-H80GT）
 - [KernelSU](https://github.com/tiann/KernelSU)、
   [Magisk](https://github.com/topjohnwu/Magisk)（`magiskpolicy`）
 
